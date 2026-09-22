@@ -102,3 +102,4 @@ Requires no SonarCloud account or repository secrets. Triggered on `push` to `ma
 2. Run Sonar and show a failed quality gate
 3. Ask participants to fix findings without changing the CSV → Excel behaviour
 4. Re-run tests, regenerate Excel, re-scan until the gate passes
+Test CI Trigger 
